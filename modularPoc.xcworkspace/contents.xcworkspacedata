@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:targets/targets.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:models/models.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:module5/module5.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:module4/module4.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:module3/module3.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:module2/module2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:module1/module1.xcodeproj">
+   </FileRef>
+</Workspace>
